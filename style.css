@@ -1,0 +1,14 @@
+#logo{
+	background-image: url('img/HarryPotter.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 50%;
+	height: 200px;
+	margin: auto;
+}
+
+.card{
+	margin: 2% auto;
+	display: inline-block;
+}
